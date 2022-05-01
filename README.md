@@ -19,7 +19,7 @@
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Leo-GIF" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/0e/7d/8b/0e7d8b5e310b8ecd27a0d2fc64afc505.gif">
+  <img align="right" alt="Leo-GIF" height="150" style="border-radius:50px;" src="https://c.tenor.com/TdXGUNE47FgAAAAj/mandalorian-baby-yoda.gif">
 </div>
   
   ##
