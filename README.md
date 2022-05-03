@@ -1,7 +1,7 @@
 ### E aí! Seja bem vindo!! 😄
 
 
-- 🔭 Atualmente, trabalho como dev back-end!
+- 👨‍💻 Atualmente, trabalho como estagiário de desenvolvimento back-end! 
 - 🌱 Estudando: Ruby, Ruby on Rails & TDD (RSpec, Capybara)
 
 <div align="center">
