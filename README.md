@@ -1,5 +1,5 @@
 ### E aí! Seja bem vindo!! 😄
-- 📚 Cursando o 6º período de Ciência da Computação.
+- 📚 Cursando o 7º período de Ciência da Computação.
 - 👨‍💻 Atualmente, trabalho como estagiário de desenvolvimento back-end!
 - 🌱 Estudando: Ruby, Ruby on Rails & TDD (RSpec, Capybara)
 
