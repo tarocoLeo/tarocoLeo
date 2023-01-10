@@ -1,7 +1,7 @@
 ### E aí! Seja bem vindo!! 😄
 - 📚 Cursando o 7º período de Ciência da Computação.
 - 👨‍💻 Atualmente, trabalho como estagiário de desenvolvimento back-end!
-- 🌱 Estudando: Ruby, Ruby on Rails & TDD (RSpec, Capybara)
+- 🌱 Estudando: Ruby, Ruby on Rails, TDD (RSpec, Capybara) & Vue.js
 
 <!-- <div align="center">
   <a href="https://github.com/tarocoLeo">
