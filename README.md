@@ -6,6 +6,8 @@ Atualmente, eu estou:
 - 👨‍💻 Trabalhando como estagiário de desenvolvimento back-end!
 - 🌱 Estudando: Ruby, Ruby on Rails, TDD (RSpec, Capybara) & Vue.js
 
+Também compartilho experiências e aprendizados no meu [blog pessoal](https://tarocoleo.github.io/).
+
 <!-- <div align="center">
   <a href="https://github.com/tarocoLeo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tarocoLeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
