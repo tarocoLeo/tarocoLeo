@@ -1,6 +1,9 @@
 ### E aí! Seja bem vindo!! 😄
+Sou o Leo, 23 anos, viciado em café e pai de pet.
+
+Atualmente, eu estou:
 - 📚 Cursando o 7º período de Ciência da Computação.
-- 👨‍💻 Atualmente, trabalho como estagiário de desenvolvimento back-end!
+- 👨‍💻 Trabalhando como estagiário de desenvolvimento back-end!
 - 🌱 Estudando: Ruby, Ruby on Rails, TDD (RSpec, Capybara) & Vue.js
 
 <!-- <div align="center">
