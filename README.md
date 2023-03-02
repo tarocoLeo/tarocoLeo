@@ -3,7 +3,7 @@ Sou o Leo, 23 anos, viciado em café e pai de pet.
 
 Atualmente, eu estou:
 - 📚 Cursando o 7º período de Ciência da Computação.
-- 👨‍💻 Trabalhando como estagiário de desenvolvimento back-end!
+- 👨‍💻 Trabalhando como Dev Jr!
 - 🌱 Estudando: Ruby, Ruby on Rails, TDD (RSpec, Capybara) & Vue.js
 
 Também compartilho experiências e aprendizados no meu [blog pessoal](https://tarocoleo.github.io/).
