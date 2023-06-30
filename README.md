@@ -1,18 +1,10 @@
 ### E aí! Seja bem vindo!! 😄
-Sou o Leo, 23 anos, viciado em café e pai de pet.
 
-Atualmente, eu estou:
-- 📚 Cursando o 7º período de Ciência da Computação.
-- 👨‍💻 Trabalhando como Dev Jr!
-- 🌱 Estudando: Ruby, Ruby on Rails, TDD (RSpec, Capybara) & Vue.js
+Sou o Leo, 23 anos, viciado em café e pai de 5 gatinhos.
+
+Atualmente, estou trabalhando como Dev Jr e finalizando o curso de Ciência da Computação (8º período).
 
 Também compartilho experiências e aprendizados no meu [blog pessoal](https://tarocoleo.github.io/).
-
-<!-- <div align="center">
-  <a href="https://github.com/tarocoLeo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tarocoLeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarocoLeo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
@@ -32,7 +24,5 @@ Também compartilho experiências e aprendizados no meu [blog pessoal](https://t
 <div> 
   <a href = "mailto:leonardo_taroco@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tarocoleo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!-- ![Snake animation](https://github.com/tarocoLeo/tarocoLeo/blob/output/github-contribution-grid-snake.svg) -->
- 
+
 </div>
