@@ -1,10 +1,6 @@
-### E aí! Seja bem vindo!! 😄
+### oi, eu sou o leo 👋😄
 
-Sou o Leo, 23 anos, viciado em café e pai de 5 gatinhos.
-
-Atualmente, estou trabalhando como Dev Jr e finalizando o curso de Ciência da Computação (8º período).
-
-Também compartilho experiências e aprendizados no meu [blog pessoal](https://tarocoleo.github.io/).
+trabalho com backend, estou me formando e também escrevo algumas coisas pro meu [blog](https://tarocoleo.github.io/). 😎👍
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
