@@ -1,6 +1,6 @@
 ### oi, eu sou o leo 👋😄
 
-trabalho com backend, estou me formando e também escrevo algumas coisas pro meu [blog](https://tarocoleo.github.io/). 😎👍
+bacharel em ciência da computação, trabalho com backend e também escrevo algumas coisas pro meu [blog](https://tarocoleo.github.io/). 😎👍
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
